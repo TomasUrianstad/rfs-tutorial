@@ -1,3 +1,3 @@
 README
 
-This is my first edit 
+This is my first commit, some extra information 
